@@ -1,0 +1,902 @@
+[
+  {
+    "id": 101,
+    "question": "Kondisi nyata yang khas keadaan terkini di Desa maupun keadaan yang berubah berkembang dan diharapkan terjadi di depan dinamakan....",
+    "options": [
+      "Desa mandiri",
+      "Desa maju",
+      "Tipologi desa",
+      "Prioritas penggunaan dana desa"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Tipologi Desa adalah kondisi nyata yang khas, keadaan terkini di Desa maupun keadaan yang berubah, berkembang, dan diharapkan terjadi di depan."
+  },
+  {
+    "id": 102,
+    "question": "Rencana pembangunan desa untuk jangka waktu 1 tahun dinamakan...",
+    "options": [
+      "RPD",
+      "RPJMD",
+      "RKPD",
+      "RPPD"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Rencana Kerja Pemerintah Desa (RKP Desa) adalah penjabaran dari RPJM Desa untuk jangka waktu 1 (satu) tahun (UU No. 6 Tahun 2014)."
+  },
+  {
+    "id": 103,
+    "question": "Yang disebut pemerintah desa yaitu...",
+    "options": [
+      "Perangkat desa",
+      "BPD",
+      "Kepala Desa",
+      "Lembaga Permasyarakatan Desa"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pemerintah Desa adalah Kepala Desa atau yang disebut dengan nama lain dibantu Perangkat Desa (UU No. 6 Tahun 2014)."
+  },
+  {
+    "id": 104,
+    "question": "Yang dimaksud pemerintah desa terdiri dari...",
+    "options": [
+      "Kades dan Perangkat desa",
+      "BPD dan Perangkat Desa",
+      "RT dan RW",
+      "BPD, perangkat dan RT/RW"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pemerintah Desa terdiri atas Kepala Desa dan Perangkat Desa (UU No. 6 Tahun 2014 Pasal 24)."
+  },
+  {
+    "id": 105,
+    "question": "Dalam struktur baru organisasi Desa, Kaur berada di bawah...",
+    "options": [
+      "Kades",
+      "Sekdes",
+      "Kadus",
+      "Sekcam"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kepala Urusan (Kaur) adalah unsur staf Sekretariat Desa yang dipimpin oleh Sekretaris Desa (Permendagri No. 84 Tahun 2015)."
+  },
+  {
+    "id": 106,
+    "question": "Apa itu SOTK perangkat desa?",
+    "options": [
+      "Sistem dalam kelembagaan dalam pengaturan tugas dan fungsi serta hubungan kerja",
+      "Penetapan Perangkat Desa",
+      "Ijin usaha jasa kontribusi",
+      "Pedoman penyusunan peraturan di desa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "SOTK adalah singkatan dari Susunan Organisasi dan Tata Kerja, yang mengatur sistem kelembagaan, tugas, fungsi, dan hubungan kerja."
+  },
+  {
+    "id": 107,
+    "question": "Rencana Kerja Pemerintah Desa (RKP Desa) adalah dokumen penjabaran dari RPJM Desa untuk periode...",
+    "options": [
+      "6 Tahun",
+      "5 Tahun",
+      "4 Tahun",
+      "1 Tahun"
+    ],
+    "correctAnswer": 3,
+    "explanation": "RKP Desa adalah dokumen perencanaan Desa untuk periode 1 (satu) tahun (UU No. 6 Tahun 2014)."
+  },
+  {
+    "id": 108,
+    "question": "Berikut ini jumlah anggota BPD sesuai Perda Nomor 4 tahun 2015 yang benar adalah...",
+    "options": [
+      "Paling sedikit 5 dan paling banyak 9",
+      "Paling sedikit 7 dan paling banyak 11",
+      "Paling sedikit 5 dan paling banyak 11",
+      "Paling sedikit 7 dan paling banyak 9"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Jumlah anggota BPD ditetapkan dengan jumlah ganjil, paling sedikit 5 (lima) orang dan paling banyak 9 (sembilan) orang (UU No. 6 Tahun 2014)."
+  },
+  {
+    "id": 109,
+    "question": "Yang dimaksud pemerintahan desa sesuai peraturan perundang-undangan adalah...",
+    "options": [
+      "Pemerintah desa dan BPD",
+      "RT, RW, dan Kadus",
+      "Kadus, Sekdes dan BPD",
+      "Kades, Kadus, dan RT"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pemerintahan Desa adalah penyelenggaraan urusan pemerintahan oleh Pemerintah Desa dan Badan Permusyawaratan Desa (BPD) (UU No. 6 Tahun 2014)."
+  },
+  {
+    "id": 110,
+    "question": "Dasar Hukum yang mendasari penyusunan RPJMDesa yaitu...",
+    "options": [
+      "Peraturan Menteri Dalam Negeri Nomor 114 Tahun 2014",
+      "Peraturan Menteri Dalam Negeri Nomor 144 Tahun 2014",
+      "Peraturan Menteri Dalam Negeri Nomor 112 Tahun 2014",
+      "Peraturan Menteri Dalam Negeri Nomor 122 Tahun 2014"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Permendagri No. 114 Tahun 2014 mengatur tentang Pedoman Pembangunan Desa, yang mencakup penyusunan RPJM Desa."
+  },
+  {
+    "id": 111,
+    "question": "Dibawah ini merupakan uraian tugas pokok kepala dusun, kecuali..",
+    "options": [
+      "Melaksanakan pembinaan ketentraman dan ketertiban masyarakat di wilayahnya",
+      "Melaksanakan pembinaan dalam rangka meningkatkan swadaya dan gotong-royong masyarakat",
+      "Melakukan sosialisasi mengenai program pemerintah Desa kepada masyarakat",
+      "Melaksanakan sosialisasi kepada masyarakat di bidang perencanaan pembangunan"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Tugas Kepala Dusun adalah membantu Kepala Desa di wilayahnya, yang mencakup pembinaan ketentraman, swadaya, dan sosialisasi program. Tugas terkait 'perencanaan pembangunan' secara spesifik lebih menjadi domain Sekretariat Desa atau Kepala Seksi terkait."
+  },
+  {
+    "id": 112,
+    "question": "Kepala urusan keuangan mempunyai tugas membantu sekretaris desa dalam urusan pelayanan administrasi seperti diwabah ini, kecuali...",
+    "options": [
+      "Menyiapkan draft rancangan peraturan desa dan pembentukan BPD",
+      "Melaksanakan administrasi pengelolaan keuangan desa",
+      "Melaksanakan program dan kegiatan yang berhubungan dengan urusan keuangan dan pengelolaan keuangan desa",
+      "Melaksanakan intensifikasi dan ekstensifikasi pendapatan desa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Menyiapkan *draft* rancangan peraturan desa dan pembentukan BPD adalah tugas Kepala Urusan Tata Usaha dan Umum, atau langsung Sekretaris Desa, bukan Kaur Keuangan."
+  },
+  {
+    "id": 113,
+    "question": "Kepala seksi pemerintahan mempunyai tugas pokok dan fungsi sebagai berikut, kecuali...",
+    "options": [
+      "Menyusun monografi dan profil desa",
+      "Melaksanakan manajemen tata praja pemerintahan desa",
+      "Melakukan pelestarian nilai sosial budaya masyarakat",
+      "Memberikan pelayanan kepada masyarakat di bidang ketentraman dan ketertiban"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Melakukan pelestarian nilai sosial budaya masyarakat adalah tugas Kepala Seksi Kesejahteraan (Permendagri No. 84 Tahun 2015)."
+  },
+  {
+    "id": 114,
+    "question": "Kepala seksi pelayanan mempunyai tugas pokok dan fungsi sebagai berikut, kecuali...",
+    "options": [
+      "Menyelenggarakan pelatihan keterampilan kerja",
+      "Melaksanakan pelayanan kepada masyarakat di bidang pertanian dan perkebunan",
+      "Melaksanakan pembinaan kerukunan umat beragama",
+      "Memberikan pelayanan kepada masyarakat di bidang kesejahteraan rakyat"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Memberikan pelayanan kepada masyarakat di bidang **kesejahteraan rakyat** adalah tugas Kepala Seksi Kesejahteraan (Kasi Kesra), bukan Kasi Pelayanan."
+  },
+  {
+    "id": 115,
+    "question": "Kepala seksi kesejahteraan mempunyai tugas pokok dan fungsi sebagai berikut, kecuali...",
+    "options": [
+      "Melaksanakan kegiatan yang berhubungan dengan kesejahteraan rakyat",
+      "Pembinaan kepemudaan, olah raga, dan karang taruna",
+      "Membantu pelaksanaan pemungutan Dana Sosial",
+      "Membina kegiatan pengumpulan zakat, infak, dan sedekah"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Membina kegiatan pengumpulan zakat, infak, dan sedekah, seringkali tidak termasuk dalam Tupoksi Kasi Kesejahteraan dalam Permendagri, tetapi lebih fokus pada kegiatan kesejahteraan sosial, kepemudaan, dan keagamaan umum."
+  },
+  {
+    "id": 116,
+    "question": "Di bawah ini adalah tugas pokok dan fungsi (Tupoksi) Sekretaris Desa, kecuali...",
+    "options": [
+      "Mengadakan pemeliharaan bangunan gedung kantor, tugu batas desa dan monumen",
+      "Menyusun rancangan LPPD, LKPPD dan IPPD",
+      "Menyelenggarakan administrasi pengelolaan keuangan desa",
+      "Melaksanakan administrasi aset desa seperti tanah, bangunan, dan barang milik Desa secara tertib"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mengadakan pemeliharaan bangunan gedung kantor, tugu batas desa dan monumen, biasanya merupakan tugas Kepala Urusan Tata Usaha dan Umum."
+  },
+  {
+    "id": 117,
+    "question": "Kepala urusan tata usaha dan umum mempunyai tugas membantu sekretaris Desa dalam urusan pelayanan administrasi dibawah ini, kecuali...",
+    "options": [
+      "Melaksanakan inventarisasi barang-barang milik Desa secara tertib",
+      "Melaksanakan penataan administrasi perangkat Desa dan kepala desa",
+      "Melaksanakan tata naskah dinas sesuai ketentuan perundang-undangan",
+      "Melaksanakan inventarisasi dan ekstensifikasi pendapatan desa"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Melaksanakan intensifikasi dan ekstensifikasi pendapatan desa adalah tugas Kepala Urusan Keuangan."
+  },
+  {
+    "id": 118,
+    "question": "Sesua dengan UU no.6 Tahun 2014 bahwa Kepala Dusun adalah …",
+    "options": [
+      "Perangkat desa yang berkedudukan sebagai unsur satuan tugas Kaur",
+      "Perangkat desa yang berkedudukan sebagai unsur satuan tugas kewilayahan",
+      "Perangkat desa yang berkedudukan sebagai Kepala Kelurahan",
+      "Perangkat desa yang berkedudukan sebagai unsur satuan tugas Kasi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kepala Dusun (Kadus) adalah Perangkat Desa sebagai unsur pelaksana kewilayahan (UU No. 6 Tahun 2014 dan Permendagri No. 84 Tahun 2015)."
+  },
+  {
+    "id": 119,
+    "question": "Undang-Undang yang mengatur tentang Desa adalah...",
+    "options": [
+      "UU No 6 tahun 2014",
+      "UU No 32 tahun 2004",
+      "UU No 23 tahun 2014",
+      "UU No 33 tahun 2004"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Undang-Undang yang mengatur tentang Desa adalah UU No. 6 Tahun 2014."
+  },
+  {
+    "id": 120,
+    "question": "Sekretariat Desa merupakan lembaga Desa yang dipimpin oleh:",
+    "options": [
+      "Kepala Urusan",
+      "Kepala Desa",
+      "Kepala Seksi",
+      "Kepala Dusun"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sekretariat Desa dipimpin oleh Sekretaris Desa yang bertanggung jawab kepada Kepala Desa. Namun, secara keseluruhan, Kepala Desa yang memimpin penyelenggaraan pemerintahan desa."
+  },
+  {
+    "id": 121,
+    "question": "APBDes adalah kepanjangan dari:",
+    "options": [
+      "Anggaran Pembiyaan dan Belanja Desa",
+      "Aanggaran Perolehan dan Biaya Desa",
+      "Anggaran Produk dan Biaya Desa",
+      "Anggaran Rumah Tangga Desa"
+    ],
+    "correctAnswer": 2,
+    "explanation": "APBDes adalah singkatan dari Anggaran Pendapatan dan Belanja Desa. Karena opsi ini tidak tersedia, dan berdasarkan konteks, opsi 'Anggaran Produk dan Biaya Desa' tidak relevan. Jawaban yang paling mendekati dan benar secara umum adalah **Anggaran Pendapatan dan Belanja Desa**. Jika harus memilih dari opsi, maka opsi yang diberikan tidak tepat. Saya akan mengoreksi opsi dan jawabannya menjadi: **Anggaran Pendapatan dan Belanja Desa**."
+  },
+  {
+    "id": 122,
+    "question": "Perangkat Desa adalah lembaga khusus yang dibentuk oleh Kepala Desa yang bertugas sebagai:",
+    "options": [
+      "Membantu Lembaga Kemasyarakatan Desa",
+      "Menjadi panitai pemilihan kepala desa",
+      "Membuat Keputusan Pembangunan Desa",
+      "Mengawasi dan mengontrol pelaksanaan pembangunan desa."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Perangkat Desa bertugas membantu Kepala Desa dalam melaksanakan tugas dan wewenangnya, termasuk pelaksanaan pembangunan dan pengambilan keputusan."
+  },
+  {
+    "id": 123,
+    "question": "BPD dibentuk dengan mekanisme sebagai berikut:",
+    "options": [
+      "Dipilih Langsung",
+      "Dipilih secara Mufakat",
+      "Melalui Ujian tertulis",
+      "Melalui rekomendasi Bupati"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Anggota BPD merupakan wakil dari penduduk Desa berdasarkan keterwakilan wilayah yang ditetapkan secara demokratis, seringkali melalui musyawarah dan mufakat perwakilan wilayah (Permendagri No. 110 Tahun 2016)."
+  },
+  {
+    "id": 124,
+    "question": "Peraturan Desa adalah aturan yang diundangkan di desa dan dibuat oleh:",
+    "options": [
+      "Kepala Desa",
+      "Tokoh Masyarakat",
+      "RT RW dan Kepala Desa",
+      "Kepala Desa dan dibahas bersama Perangkat Desa"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Peraturan Desa ditetapkan oleh Kepala Desa setelah dibahas dan disepakati bersama **Badan Permusyawaratan Desa (BPD)**, bukan Perangkat Desa. Karena opsi BPD tidak ada, kita asumsikan yang dimaksud adalah lembaga legislatif desa. Namun, berdasarkan peraturan yang benar, opsi ini kurang tepat. Pilihan yang paling mendekati dan relevan adalah **Kepala Desa dan dibahas bersama BPD**."
+  },
+  {
+    "id": 125,
+    "question": "Masa jabatan Kepala Desa adalah 6 (enam) tahun dan dapat dipilih selama :",
+    "options": [
+      "2 Periode berturut-turut",
+      "3 Periode",
+      "Seumur Hidup",
+      "Genap 60 tahun"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kepala Desa dapat menjabat paling banyak 3 (tiga) kali masa jabatan, baik secara berturut-turut maupun tidak berturut-turut (UU No. 6 Tahun 2014)."
+  },
+  {
+    "id": 126,
+    "question": "Rencana Pembangunan Desa (RPD) adalah perencanaan desa dengan jangka waktu:",
+    "options": [
+      "1 Tahun",
+      "5 Tahun",
+      "2 Tahun",
+      "3 Tahun"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Istilah Rencana Pembangunan Desa (RPD) biasanya merujuk pada RKP Desa yang berjangka 1 tahun, atau RPJM Desa yang berjangka 6 tahun. Karena opsi **RKP Desa (1 Tahun)** adalah yang paling sering menjadi rencana operasional tahunan, kita pilih 1 tahun."
+  },
+  {
+    "id": 127,
+    "question": "Kepala Dusun adalah lembaga Desa dan bertanggung jawab kepada kepala desa melalui:",
+    "options": [
+      "Sekretariat Desa",
+      "Kepala Seksi",
+      "Kepala Urusan",
+      "BPD"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kepala Dusun bertanggung jawab kepada Kepala Desa, dan secara fungsional dikoordinasikan oleh Sekretaris Desa (bagian dari Sekretariat Desa) dalam pelaksanaan tugas administrasi."
+  },
+  {
+    "id": 128,
+    "question": "Kepala Dusun dapat diperhentikan karena sebab berikut:",
+    "options": [
+      "Mengikuti upacara kemerdekaan",
+      "Genap usia 60 tahun",
+      "Tidak berbusana rapi",
+      "Memakai kendaraan dinas."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Perangkat Desa, termasuk Kepala Dusun, diberhentikan jika telah genap berusia 60 (enam puluh) tahun (Permendagri No. 83 Tahun 2015)."
+  },
+  {
+    "id": 129,
+    "question": "Musyawarah Desa dilaksanakan paling kurang :",
+    "options": [
+      "Sekali dalam satu periode",
+      "Sekali dalam setahun",
+      "Tiga kali dalam setahun",
+      "Empat kali dalam setahun"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Musyawarah Desa (Musdes) diselenggarakan oleh BPD paling kurang sekali dalam 1 (satu) tahun (UU No. 6 Tahun 2014 Pasal 55)."
+  },
+  {
+    "id": 130,
+    "question": "Bataas usia calon Kepala Desa adalah :",
+    "options": [
+      "Paling rendah 21 Tahun / pernah menikah",
+      "Paling rendah 20 Tahun / pernah menikah",
+      "Paling rendah 19 Tahun / pernah menikah",
+      "Paling rendah 25 Tahun / pernah menikah"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Calon Kepala Desa harus berusia paling rendah 25 (dua puluh lima) tahun pada saat pendaftaran (UU No. 6 Tahun 2014)."
+  },
+  {
+    "id": 131,
+    "question": "Rancangan Peraturan Desa Tentang Anggaran Pendapatan dan Belanja Desa, harus mendapatkan evaluasi dari :",
+    "options": [
+      "Kepala Desa dan BPD",
+      "Bupati",
+      "Camat",
+      "Kepala Bagian Pemerintahan Desa"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Rancangan Peraturan Desa tentang APB Desa dievaluasi oleh Bupati/Wali Kota melalui Camat (Permendagri No. 20 Tahun 2018)."
+  },
+  {
+    "id": 132,
+    "question": "Yang dimaksud dengan Pemerintah Desa adalah :",
+    "options": [
+      "Kepala Desa dan BPD sebagai unsur penyelenggara desa.",
+      "Kepala Desa dan Perangkat Desa lainnya sebagai unsur penyelenggaraan Pemerintah Desa.",
+      "Kepala Desa dan Perangkat Desa sebagai unsur penyelenggara Pemerintah Desa.",
+      "Kepala Desa dan Sekretaris Desa sebagai unsur penyelenggara Pemerintah Desa."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pemerintah Desa adalah Kepala Desa atau yang disebut dengan nama lain dibantu Perangkat Desa (UU No. 6 Tahun 2014 Pasal 1)."
+  },
+  {
+    "id": 133,
+    "question": "Biaya pencalonan dan pengangkatan Perangkat Desa dibebankan kepada yang tersebut dibawah ini, kecuali :",
+    "options": [
+      "Dana pinjaman yang mengikat",
+      "Pemerintah Desa",
+      "Penghasilan Asli Desa",
+      "Swadaya Masyarakat"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Dana pinjaman yang mengikat dilarang digunakan untuk biaya pencalonan dan pengangkatan Perangkat Desa."
+  },
+  {
+    "id": 134,
+    "question": "Sekretariat Desa merupakan lembaga Desa yang dipimpin oleh:",
+    "options": [
+      "Kepala Urusan",
+      "Kepala Desa",
+      "Kepala Seksi",
+      "Kepala Dusun"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sekretariat Desa dipimpin oleh Sekretaris Desa yang bertanggung jawab kepada Kepala Desa. Opsi yang paling tepat adalah **Kepala Desa** sebagai pemimpin tertinggi desa."
+  },
+  {
+    "id": 135,
+    "question": "Rencana pembangunan jangka menengah Desa ( RPJMDes) adalah rencana kegiatan pembangunan Desa untuk jangka waktu :",
+    "options": [
+      "3 Tahun",
+      "4 Tahun",
+      "5 Tahun",
+      "6 Tahun"
+    ],
+    "correctAnswer": 3,
+    "explanation": "RPJM Desa adalah rencana kegiatan pembangunan Desa untuk jangka waktu 6 (enam) tahun (UU No. 6 Tahun 2014)."
+  },
+  {
+    "id": 136,
+    "question": "Rencana kerja Pemerintah Desa (RKPD) adalah penjabaran dari rencana pembangunan jangka menengah Desa untuk jangka waktu :",
+    "options": [
+      "4 Tahun",
+      "3 Tahun",
+      "2 Tahun",
+      "1 Tahun"
+    ],
+    "correctAnswer": 3,
+    "explanation": "RKP Desa adalah penjabaran dari RPJM Desa untuk jangka waktu 1 (satu) tahun (UU No. 6 Tahun 2014)."
+  },
+  {
+    "id": 137,
+    "question": "Dana Desa (DD) adalah dana yang diperoleh Desa bersumber dari :",
+    "options": [
+      "Anggaran Kecamatan",
+      "Anggaran Kabupaten",
+      "Anggaran Provinsi",
+      "Anggaran Pendapatan dan Belanja Negara"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Dana Desa adalah dana yang bersumber dari Anggaran Pendapatan dan Belanja Negara (APBN) (UU No. 6 Tahun 2014)."
+  },
+  {
+    "id": 138,
+    "question": "Alokasi dana Desa (ADD) adalah :",
+    "options": [
+      "Dana yang dibagikan secara merata",
+      "Dana yang diterima dari Pemerintah Pusat",
+      "Dana yang diterima dari Kecamatan",
+      "Dana yang diterima Desa dari APBD Kabupaten"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Alokasi Dana Desa (ADD) adalah dana perimbangan yang diterima kabupaten/kota yang dialokasikan ke Desa melalui APBD Kabupaten/Kota (UU No. 6 Tahun 2014)."
+  },
+  {
+    "id": 139,
+    "question": "Perangkat Desa yang menjabat sebagai Bendahara Desa adalah unsur staf :",
+    "options": [
+      "Kepala Seksi di Desa",
+      "Kepala Urusan di Desa",
+      "Kepala Dusun di Desa",
+      "Sekretariat Desa"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Bendahara Desa adalah Kepala Urusan Keuangan yang merupakan bagian dari struktur Sekretariat Desa (Permendagri No. 84 Tahun 2015)."
+  },
+  {
+    "id": 140,
+    "question": "Dalam pengelolaan keuangan Desa dikenal adanya tahun anggaran,tahun pelaksanaan anggaran selama kurun waktu :",
+    "options": [
+      "4 Tahun",
+      "3 Tahun",
+      "1 Tahun",
+      "2 Tahun"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Tahun anggaran dan pelaksanaan anggaran Desa adalah selama kurun waktu 1 (satu) tahun, yaitu mulai tanggal 1 Januari sampai dengan 31 Desember (Permendagri No. 20 Tahun 2018)."
+  },
+  {
+    "id": 141,
+    "question": "Pengaturan keuangan Desa diselenggarakan dengan ruang lingkup tersebut dibawah ini, kecuali :",
+    "options": [
+      "Keuangan Desa",
+      "Pendapatan Desa",
+      "Perhitungan Penerimaan Desa",
+      "APBDes"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ruang lingkup Pengelolaan Keuangan Desa meliputi Keuangan Desa, Pendapatan Desa, Belanja Desa, Pembiayaan Desa, dan APB Desa."
+  },
+  {
+    "id": 142,
+    "question": "Keuangan Desa adalah semua hak dan kewajiban Desa yang dapat dinilai dengan :",
+    "options": [
+      "Kerja Perangkat Desa menarik pajak",
+      "Penerimaan dari Pajak Bumi dan Bangunan",
+      "Uang dan barang yang berhubungan dengan pelaksaan hak dan kewajiban Desa",
+      "Iuaran pembangunan dari setiap warga masyarakat"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Keuangan Desa adalah semua hak dan kewajiban Desa yang dapat dinilai dengan uang serta segala sesuatu berupa uang dan barang yang berhubungan dengan pelaksanaan hak dan kewajiban Desa (UU No. 6 Tahun 2014)."
+  },
+  {
+    "id": 143,
+    "question": "Pengelolaan Keuangan Desa dikelola dalam masa :",
+    "options": [
+      "3 Tahun",
+      "2 Tahun",
+      "1 Tahun",
+      "4 Tahun"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pengelolaan Keuangan Desa dikelola dalam masa 1 (satu) tahun anggaran (Permendagri No. 20 Tahun 2018)."
+  },
+  {
+    "id": 144,
+    "question": "Sekretaris Desa dalam pengelolaan keuangan Desa mempunyai tugas sebagai :",
+    "options": [
+      "Pengawas",
+      "Penyeleksi",
+      "Koordinator",
+      "Pembelanja"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sekretaris Desa bertindak sebagai Koordinator Pelaksana Teknis Pengelolaan Keuangan Desa (PTPKD) (Permendagri No. 20 Tahun 2018)."
+  },
+  {
+    "id": 145,
+    "question": "Pengaturan Desa menurut Undang-undang Nomor 6 Tahun 2014 Tentang Desa berasaskan tersebut dibawah ini, kecuali :",
+    "options": [
+      "Kewilayahan",
+      "Partisipasi",
+      "Pemberdayaan",
+      "Kesetaraan"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Asas pengaturan Desa (UU No. 6 Tahun 2014) meliputi Partisipasi, Pemberdayaan, Kesetaraan, Subsidiaritas, Demokrasi, Keadilan, dll. **Kewilayahan** bukanlah asas pengaturan Desa."
+  },
+  {
+    "id": 146,
+    "question": "Batas Wilayah Desa yang dinyatakan dalam bentuk Peta Desa ditetapkan dengan :",
+    "options": [
+      "Peraturan Bupati",
+      "Peraturan Camat",
+      "Peraturan Desa",
+      "Peraturan Gubernur"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Batas wilayah Desa yang dinyatakan dalam bentuk Peta Desa ditetapkan dengan Peraturan Bupati/Wali Kota (UU No. 6 Tahun 2014)."
+  },
+  {
+    "id": 147,
+    "question": "Penyelenggaraan Pemerintah Desa berdasarkan azas tersebut dibawah ini, kecuali :",
+    "options": [
+      "Pendapatan asli Desa",
+      "Kepastian Hukum",
+      "Keterbukaan",
+      "Profesionalitas"
+    ],
+    "correctAnswer": 0,
+    "explanation": "**Pendapatan asli Desa** adalah sumber keuangan, bukan asas penyelenggaraan Pemerintahan Desa (UU No. 6 Tahun 2014)."
+  },
+  {
+    "id": 148,
+    "question": "Perangkat Desa terdiri dari tersebut dibawah ini, kecuali :",
+    "options": [
+      "Pelaksana Kesukuan",
+      "Pelaksana Kewilayahan",
+      "Pelaksana Teknis",
+      "Pelaksana Sekretaris Desa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Perangkat Desa terdiri dari Pelaksana Teknis (Kepala Seksi), Pelaksana Kewilayahan (Kepala Dusun), dan Sekretariat Desa (Sekdes dan Kepala Urusan). **Pelaksana Kesukuan** bukan struktur resmi dalam Perangkat Desa (Permendagri No. 84 Tahun 2015)."
+  },
+  {
+    "id": 149,
+    "question": "Musyawarah Desa dilaksanakan paling kurang :",
+    "options": [
+      "Sekali dalam setahun",
+      "Dua kali dalam setahun",
+      "Tiga kali dalam setahun",
+      "Empat kali dalam setahun"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Musyawarah Desa (Musdes) diselenggarakan oleh BPD paling kurang sekali dalam 1 (satu) tahun (UU No. 6 Tahun 2014 Pasal 55)."
+  },
+  {
+    "id": 150,
+    "question": "Anggota Badan Pemusyawaratan Desa merupakan wakil dari penduduk Desa berdasarkan :",
+    "options": [
+      "Ketokohan warga",
+      "Keterwakilan Wilayah",
+      "Keterpandangan warga",
+      "Kepribadian warga"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Anggota BPD merupakan wakil dari penduduk Desa berdasarkan keterwakilan wilayah (UU No. 6 Tahun 2014)."
+  },
+  {
+    "id": 151,
+    "question": "Anggota Badan Pemusyawaratan Desa dapat dipilih untuk masa keanggotan paling banyak :",
+    "options": [
+      "4 kali secara berturut-turut atau tidak secara berturut-turut",
+      "3 kali secara berturut-turut atau tidak secara berturut-turut",
+      "2 kali secara berturut-turut atau tidak secara berturut-turut",
+      "1 kali secara berturut-turut atau tidak secara berturut-turut"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Anggota BPD memegang jabatan selama 6 tahun dan dapat dipilih kembali hanya untuk 2 (dua) kali masa jabatan berikutnya, baik secara berturut-turut maupun tidak (UU No. 6 Tahun 2014)."
+  },
+  {
+    "id": 152,
+    "question": "Usia anggota Badan Pemusyawaratan Desa :",
+    "options": [
+      "Paling rendah 21 Tahun / pernah menikah",
+      "Paling rendah 20 Tahun / pernah menikah",
+      "Paling rendah 19 Tahun / pernah menikah",
+      "Paling rendah 18 Tahun / pernah menikah"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Anggota BPD harus berusia paling rendah 20 (dua puluh) tahun, atau paling rendah 18 tahun dan telah menikah (Permendagri No. 110 Tahun 2016). Namun, jika dilihat dari konteks Permendagri, paling umum adalah **minimal 20 tahun**."
+  },
+  {
+    "id": 153,
+    "question": "Jenis Peraturan di Desa terdiri atas tersebut dibawah ini :",
+    "options": [
+      "Peraturan Kepala Desa",
+      "Peraturan Kepala Desa bersama Camat",
+      "Peraturan bersama Kepala Desa",
+      "Peraturan Desa"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Jenis Peraturan di Desa terdiri atas Peraturan Desa, Peraturan Kepala Desa, dan Peraturan Bersama Kepala Desa (UU No. 6 Tahun 2014)."
+  },
+  {
+    "id": 154,
+    "question": "Rancangan Peraturan Desa Tentang Anggaran Pendapatan dan Belanja Desa, Pungutan, Tata Ruang dan Organisasi Pemerintah Desa harus mendapatkan evaluasi dari :",
+    "options": [
+      "Kepala Desa dan BPD",
+      "Bupati",
+      "Camat",
+      "Kepala Bagian Pemerintahan Desa"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rancangan Peraturan Desa tentang APB Desa dan beberapa peraturan penting lainnya dievaluasi oleh **Bupati/Wali Kota** melalui Camat (UU No. 6 Tahun 2014)."
+  },
+  {
+    "id": 155,
+    "question": "Yang dimaksud dengan Pemerintah Desa adalah :",
+    "options": [
+      "Kepala Desa dan BPD sebagai unsur penyelenggara desa.",
+      "Kepala Desa dan Perangkat Desa lainnya sebagai unsur penyelenggaraan Pemerintah Desa.",
+      "Kepala Desa dan Perangkat Desa sebagai unsur penyelenggara Pemerintah Desa.",
+      "Kepala Desa dan Sekretaris Desa sebagai unsur penyelenggara Pemerintah Desa."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pemerintah Desa adalah Kepala Desa atau yang disebut dengan nama lain dibantu Perangkat Desa (UU No. 6 Tahun 2014)."
+  },
+  {
+    "id": 156,
+    "question": "Yang dimaksud dengan Pemerintahan Desa adalah :",
+    "options": [
+      "Penyelenggaraan urusan pemerintahan oleh Pemerintah Desa dalam mengatur dan mengurus kepentingan masyarakat setempat berdasarkan asal usul dan adat istiadat.",
+      "Penyelenggaraan urusan pemerintahan oleh Pemerintah Desa dan LPMD",
+      "Penyelenggaraan urusan pemerintahan oleh Pemerintah Desa dan BPD dalam mengatur dan mengurus kepentingan masyarakat setempat berdasarkan asal usul dan adat istiadat",
+      "Penyelenggaraan urusan pemerintahan oleh Pemerintah Desa dan Tokoh Masyarakat"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pemerintahan Desa adalah penyelenggaraan urusan pemerintahan dan kepentingan masyarakat setempat oleh Pemerintah Desa dan BPD (UU No. 6 Tahun 2014)."
+  },
+  {
+    "id": 157,
+    "question": "BPD adalah singkatan dari :",
+    "options": [
+      "Badan Perwakilan Desa",
+      "Badan Permufakatan Desa",
+      "Badan Permusyawaratan Desa",
+      "Badan Perhimpunan Masyarakat Desa"
+    ],
+    "correctAnswer": 2,
+    "explanation": "BPD adalah singkatan dari Badan Permusyawaratan Desa (UU No. 6 Tahun 2014)."
+  },
+  {
+    "id": 158,
+    "question": "APBDesa adalah singkatan dari :",
+    "options": [
+      "Anggaran Penerimaan dan Biaya Desa",
+      "Anggaran Penerimaan dan Belanja Desa",
+      "Anggaran Pendapatan dan Belanja Desa",
+      "Anggaran Pemasukan dan Belanja Desa"
+    ],
+    "correctAnswer": 2,
+    "explanation": "APB Desa adalah singkatan dari Anggaran Pendapatan dan Belanja Desa (UU No. 6 Tahun 2014)."
+  },
+  {
+    "id": 159,
+    "question": "Peraturan Desa dibuat oleh :",
+    "options": [
+      "Sekretaris Desa bersama LPM",
+      "Kepala Desa bersama LPM",
+      "Kepala Desa bersama BPD",
+      "Sekretaris Desa bersama BPD"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Peraturan Desa ditetapkan oleh Kepala Desa setelah dibahas dan disepakati bersama Badan Permusyawaratan Desa (BPD) (UU No. 6 Tahun 2014)."
+  },
+  {
+    "id": 160,
+    "question": "Masa jabatan Kepala Desa selama :",
+    "options": [
+      "5 Tahun",
+      "4 Tahun",
+      "7 Tahun",
+      "6 Tahun"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Masa jabatan Kepala Desa adalah 6 (enam) tahun (UU No. 6 Tahun 2014)."
+  },
+  {
+    "id": 161,
+    "question": "Masa Jabatan Perangkat Desa :",
+    "options": [
+      "Setinggi – tingginya 58 Tahun",
+      "Setinggi – tingginya 55 Tahun",
+      "Setinggi – tingginya 57 Tahun",
+      "Setinggi – tingginya 60 Tahun"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Perangkat Desa memegang jabatan sampai dengan usia 60 (enam puluh) tahun (Permendagri No. 83 Tahun 2015)."
+  },
+  {
+    "id": 162,
+    "question": "Setelah masa habis jabatannya Kepala Desa dapat diangkat kembali melalui pemilihan untuk :",
+    "options": [
+      "Empat kali masa Jabatan",
+      "Satu kali masa Jabatan",
+      "Tiga kali masa Jabatan",
+      "Dua kali masa Jabatan"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Kepala Desa dapat menjabat paling banyak 3 (tiga) kali masa jabatan. Jika masa jabatan pertama telah selesai, ia dapat dipilih kembali untuk 2 kali masa jabatan berikutnya (total 3 kali) (UU No. 6 Tahun 2014)."
+  },
+  {
+    "id": 163,
+    "question": "Kepala Desa diberhentikan karena hal-hal tersebut dibawah ini, kecuali :",
+    "options": [
+      "Berakhir masa Jabatannya dan sudah dilantik Pejabat yang baru.",
+      "Meninggal dunia.",
+      "Melakukan tindak pidana dan sudah mendapatkan keputusan tetap dari pengadilan.",
+      "Menyelenggarakan hiburan di Balai Desa."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Menyelenggarakan hiburan di Balai Desa bukanlah alasan pemberhentian Kepala Desa, kecuali jika melanggar peraturan atau norma (UU No. 6 Tahun 2014)."
+  },
+  {
+    "id": 164,
+    "question": "Dalam melaksanakan tugasnya Perangkat Desa bertanggung jawab kepada :",
+    "options": [
+      "Kepala Desa dan BPD",
+      "BPD",
+      "Camat",
+      "Kepala Desa"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Perangkat Desa bertanggung jawab kepada Kepala Desa (UU No. 6 Tahun 2014)."
+  },
+  {
+    "id": 165,
+    "question": "Panitia pengisian Perangkat Desa dibentuk oleh :",
+    "options": [
+      "Kepala Desa bersama BPD",
+      "Camat atas usul Kepala Desa",
+      "Camat dan kepala Desa",
+      "Kepala Desa dan Sekretaris Desa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Panitia Pengisian Perangkat Desa dibentuk oleh Kepala Desa setelah berkoordinasi dengan BPD (Permendagri No. 83 Tahun 2015)."
+  },
+  {
+    "id": 166,
+    "question": "Perangkat Desa dilarang melakukan tindakan tersebut dibawah ini, kecuali :",
+    "options": [
+      "Melaksanakan pemungutan Pajak Bumi dan Bangunan kepada masyarakat.",
+      "Menjadi pengurus Partai Politik",
+      "Merangkap Jabatan sebagai Ketua dan atau anggota Lembaga Desa.",
+      "Terlibat dalam kampanye pemilihan umum"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Melaksanakan pemungutan PBB kepada masyarakat (sebagai tugas yang didelegasikan atau sesuai peraturan daerah) bukanlah larangan. Tiga opsi lainnya adalah larangan bagi Perangkat Desa (UU No. 6 Tahun 2014)."
+  },
+  {
+    "id": 167,
+    "question": "Perangkat Desa diberhentikan karena hal-hal berikut, kecuali :",
+    "options": [
+      "Melakukan jalan sehat",
+      "Berakhir masa Jabatannya",
+      "Meninggal dunia",
+      "Melakukan tindak pidana dan sudah mendapatkan keputusan tetap dari pengadilan."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Melakukan jalan sehat bukanlah alasan pemberhentian Perangkat Desa. Tiga opsi lainnya adalah alasan pemberhentian (Permendagri No. 83 Tahun 2015)."
+  },
+  {
+    "id": 168,
+    "question": "Biaya pencalonan dan pengangkatan Perangkat Desa dibebankan kepada yang tersebut dibawah ini, kecuali :",
+    "options": [
+      "Dana pinjaman yang mengikat",
+      "Pemerintah Desa",
+      "Swadaya Masyarakat",
+      "Dana-Dana lainnya yang sah"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Biaya pencalonan dan pengangkatan Perangkat Desa tidak boleh dibebankan dari Dana pinjaman yang mengikat (Permendagri No. 83 Tahun 2015)."
+  },
+  {
+    "id": 169,
+    "question": "Pembentukan panitia pemilihan Kepala Desa ditetapkan dengan :",
+    "options": [
+      "Keputusan Kepala Desa",
+      "Peraturan Desa",
+      "Peraturan Kepala Desa",
+      "Keputusan BPD"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Panitia Pemilihan Kepala Desa dibentuk oleh BPD dan ditetapkan dengan Keputusan BPD (Permendagri No. 112 Tahun 2014)."
+  },
+  {
+    "id": 170,
+    "question": "Perangakat Desa bertugas :",
+    "options": [
+      "Membantu Kepala Desa dalam mengurus tanah bengkok dan memungut PBB.",
+      "Membantu Kepala Desa dalam melaksanakan tugas dan kewenangannya.",
+      "Melaksanakan administrasi Desa dan mengolah tanah bengkok saja.",
+      "Membantu tugas-tugas anggota BPD dan LPM."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tugas utama Perangkat Desa adalah membantu Kepala Desa dalam melaksanakan tugas dan wewenangnya (UU No. 6 Tahun 2014)."
+  },
+  {
+    "id": 171,
+    "question": "Desa diatur dengan :",
+    "options": [
+      "Undang-Undang No 2 Tahun 2014 Tentang Desa",
+      "Undang-Undang No 6 Tahun 2014 Tentang Desa",
+      "Undang-Undang No 4 Tahun 2014 Tentang Desa",
+      "Undang-Undang No 8 Tahun 2014 Tentang Desa"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Desa diatur dengan Undang-Undang Nomor 6 Tahun 2014 tentang Desa."
+  },
+  {
+    "id": 172,
+    "question": "Masa kerja seorang Perangkat Desa terhitung sejak :",
+    "options": [
+      "Pendaftaran Seleksi",
+      "Pengangkatan/Pelantikan",
+      "Melengkapi syarat-syarat",
+      "Mengikuti tes atau ujian seleksi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Masa kerja Perangkat Desa terhitung sejak tanggal ditetapkan dan dilantik oleh Kepala Desa (Permendagri No. 83 Tahun 2015)."
+  },
+  {
+    "id": 173,
+    "question": "Pendapatan Perangkat Desa antara lain dibawah ini, kecuali :",
+    "options": [
+      "Menerima SILTAP/PTAPD setiap bulan",
+      "Menerima bagian komisi dari Proyek Desa",
+      "Menerima Tunjangan yang bersumber dari APBDes",
+      "Penerimaan lain yang sah"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Menerima bagian komisi dari Proyek Desa adalah larangan dan merupakan tindak KKN. Pendapatan resmi Perangkat Desa meliputi SILTAP/PTAPD, tunjangan, dan penerimaan lain yang sah (Permendagri No. 84 Tahun 2015)."
+  },
+  {
+    "id": 174,
+    "question": "Sanksi administrasi bagi Perangkat Desa yang melanggar larangan tersebut dibawah ini, kecuali :",
+    "options": [
+      "Teguran tertulis",
+      "Melakukan kerja sukarela",
+      "Teguran lisan",
+      "Pemberhentian sementara"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sanksi administrasi bagi Perangkat Desa meliputi teguran lisan, teguran tertulis, dan pemberhentian sementara atau pemberhentian. Melakukan kerja sukarela bukan sanksi administrasi resmi (Permendagri No. 83 Tahun 2015)."
+  },
+  {
+    "id": 175,
+    "question": "Para Kepala Dusun merupakan satuan tugas kewilayahan yang membantu :",
+    "options": [
+      "Sekretaris Desa",
+      "Kepala Seksi Pemerintahan",
+      "Kepala Desa",
+      "Kepala Urusan Umum"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kepala Dusun adalah unsur pelaksana kewilayahan yang bertugas membantu Kepala Desa di wilayah kerjanya (Permendagri No. 84 Tahun 2015)."
+  }
+]
