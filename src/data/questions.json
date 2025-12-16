@@ -243,12 +243,12 @@
     "id": 121,
     "question": "APBDes adalah kepanjangan dari:",
     "options": [
-      "Anggaran Pembiyaan dan Belanja Desa",
+      "Anggaran Pendapatan dan Belanja Desa",
       "Aanggaran Perolehan dan Biaya Desa",
       "Anggaran Produk dan Biaya Desa",
       "Anggaran Rumah Tangga Desa"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation": "APBDes adalah singkatan dari Anggaran Pendapatan dan Belanja Desa. Karena opsi ini tidak tersedia, dan berdasarkan konteks, opsi 'Anggaran Produk dan Biaya Desa' tidak relevan. Jawaban yang paling mendekati dan benar secara umum adalah **Anggaran Pendapatan dan Belanja Desa**. Jika harus memilih dari opsi, maka opsi yang diberikan tidak tepat. Saya akan mengoreksi opsi dan jawabannya menjadi: **Anggaran Pendapatan dan Belanja Desa**."
   },
   {
@@ -257,7 +257,7 @@
     "options": [
       "Membantu Lembaga Kemasyarakatan Desa",
       "Menjadi panitai pemilihan kepala desa",
-      "Membuat Keputusan Pembangunan Desa",
+      "Perangkat Desa bertugas membantu Kepala Desa dalam melaksanakan tugas dan wewenangnya",
       "Mengawasi dan mengontrol pelaksanaan pembangunan desa."
     ],
     "correctAnswer": 2,
@@ -282,7 +282,7 @@
       "Kepala Desa",
       "Tokoh Masyarakat",
       "RT RW dan Kepala Desa",
-      "Kepala Desa dan dibahas bersama Perangkat Desa"
+      "Kepala Desa dan dibahas bersama BPD"
     ],
     "correctAnswer": 3,
     "explanation": "Peraturan Desa ditetapkan oleh Kepala Desa setelah dibahas dan disepakati bersama **Badan Permusyawaratan Desa (BPD)**, bukan Perangkat Desa. Karena opsi BPD tidak ada, kita asumsikan yang dimaksud adalah lembaga legislatif desa. Namun, berdasarkan peraturan yang benar, opsi ini kurang tepat. Pilihan yang paling mendekati dan relevan adalah **Kepala Desa dan dibahas bersama BPD**."
@@ -368,7 +368,7 @@
       "Camat",
       "Kepala Bagian Pemerintahan Desa"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation": "Rancangan Peraturan Desa tentang APB Desa dievaluasi oleh Bupati/Wali Kota melalui Camat (Permendagri No. 20 Tahun 2018)."
   },
   {
@@ -620,19 +620,19 @@
       "Paling rendah 19 Tahun / pernah menikah",
       "Paling rendah 18 Tahun / pernah menikah"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation": "Anggota BPD harus berusia paling rendah 20 (dua puluh) tahun, atau paling rendah 18 tahun dan telah menikah (Permendagri No. 110 Tahun 2016). Namun, jika dilihat dari konteks Permendagri, paling umum adalah **minimal 20 tahun**."
   },
   {
     "id": 153,
-    "question": "Jenis Peraturan di Desa terdiri atas tersebut dibawah ini :",
+    "question": "Jenis Peraturan di Desa terdiri atas tersebut dibawah ini, kecuali:",
     "options": [
       "Peraturan Kepala Desa",
       "Peraturan Kepala Desa bersama Camat",
       "Peraturan bersama Kepala Desa",
       "Peraturan Desa"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "explanation": "Jenis Peraturan di Desa terdiri atas Peraturan Desa, Peraturan Kepala Desa, dan Peraturan Bersama Kepala Desa (UU No. 6 Tahun 2014)."
   },
   {
